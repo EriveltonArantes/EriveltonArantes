@@ -15,7 +15,7 @@ Conhecimentos: PHP, MySql, Java, Postgresql, Python
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EriveltonArantes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EriveltonArantes&show_icons=true&theme=dark)](https://github.com/EriveltonArantes)
 
 ### Projetos
 
